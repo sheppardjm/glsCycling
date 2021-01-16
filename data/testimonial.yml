@@ -53,6 +53,11 @@ testimonial_item :
     quote : >
 
   - thumb : "images/testimonial/user-thumb-eleven.jpg"
-    name  : "Aaron Barto"
+    name  : "Tom Landry"
+    company_position: "Grand Rapids, MI"
+    quote : >
+
+  - thumb : "images/testimonial/user-thumb-twelve.jpg"
+    name : "Aaron Barto"
     company_position: "Grand Rapids, MI"
     quote : >

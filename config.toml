@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "GLS Cycling | Cycling Race Team from the Great Lakes State"
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -34,7 +34,7 @@ summarylength = 25
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  formspreeFormUrl  = ""
   
   # Navbar Action Button
   [params.navAction]
@@ -55,9 +55,9 @@ summarylength = 25
     secondary_button_url  = "contact"
 
   [params.portfolio]
-    enable    = false
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    enable    = true
+    title     = "OUR LATEST ACTIVITY"
+    subtitle  = "Join our club or follow us on Strava"
 
   [params.call_to_action]
     enable              = true

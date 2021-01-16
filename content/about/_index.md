@@ -1,8 +1,8 @@
 ---
-title: "About Us"
+title: "Sponsors"
 date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
-expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+heading : "GLS CYCLING, THE MOST RECOGNIZED MOUNTAIN BIKE RACING TEAM IN THE GREAT LAKES REGION"
+description : "We compete in a wide variety of competitve cycling series on snow, gravel, and singletrack. We're also committed to supporting our cycling communities through advocacy, trail work, and competition."
+expertise_title: "2021 Sponsors"
+expertise_sectors: ["Trailhead Bike Shop", "Ludington Brewing", "Wolf Tooth Components", "Clif Bar", "Highland Training", "Bison Coolers", "Ron's Beans", "Harvey Milling"]
 ---

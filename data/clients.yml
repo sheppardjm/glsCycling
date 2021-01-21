@@ -1,4 +1,34 @@
 enable        : true
 title         : "Thank you for your support"
 client_logos  : 
-  ["images/clients/client-logo-one.png", "images/clients/client-logo-two.png", "images/clients/client-logo-three.png", "images/clients/client-logo-four.png", "images/clients/client-logo-five.png", "images/clients/client-logo-six.png", "images/clients/client-logo-seven.png", "images/clients/client-logo-eight.png"]
+  - thumb : "images/clients/client-logo-one.png"
+    alt   : "Trailhead Bike Shop"
+    link  : "//trailheadbikeshop.com"
+
+  - thumb : "images/clients/client-logo-two.png"
+    alt   : "Wolf Tooth Components"
+    link  : "//www.wolftoothcomponents.com"
+
+  - thumb : "images/clients/client-logo-three.png"
+    alt   : "Tailwind Nutrition"
+    link  : "//www.tailwindnutrition.com"
+
+  - thumb : "images/clients/client-logo-four.png"
+    alt   : "Ron's Beans"
+    link  : "//www.ronsbeans.com"
+
+  - thumb : "images/clients/client-logo-five.png"
+    alt   : "Ludington Bay Brewing"
+    link  : "//ludingtonbaybrewing.com"
+
+  - thumb : "images/clients/client-logo-six.png"
+    alt   : "Highland Training"
+    link  : "//www.highlandtraining.net"
+
+  - thumb : "images/clients/client-logo-seven.png"
+    alt   : "Clif Bar"
+    link  : "//www.clifbar.com"
+
+  - thumb : "images/clients/client-logo-eight.png"
+    alt   : "Bison Coolers"
+    link  : "//www.bisoncoolers.com"

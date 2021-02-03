@@ -22,11 +22,6 @@ testimonial_item :
     company_position: "Battle Creek, MI"
     quote : > 
 
-  - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Dan Meyers"
-    company_position: "Portage, MI"
-    quote : > 
-
   - thumb : "images/testimonial/user-thumb-six.jpg"
     name  : "Ed Serrat"
     company_position: "Red Lodge, MT"

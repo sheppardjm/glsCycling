@@ -32,3 +32,11 @@ client_logos  :
   - thumb : "images/clients/client-logo-eight.png"
     alt   : "Bison Coolers"
     link  : "//www.bisoncoolers.com"
+
+  - thumb : "images/clients/client-logo-nine.png"
+    alt   : "VeloPro"
+    link  : "//www.velopro.bike"
+  
+  - thumb : "images/clients/client-logo-ten.png"
+    alt   : "Harvey's"
+    link  : "//www.harveymilling.com"

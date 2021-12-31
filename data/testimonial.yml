@@ -17,11 +17,6 @@ testimonial_item :
     company_position: "Waterford, MI"
     quote : > 
 
-  - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Clint Newman"
-    company_position: "Battle Creek, MI"
-    quote : > 
-
   - thumb : "images/testimonial/user-thumb-six.jpg"
     name  : "Ed Serrat"
     company_position: "Red Lodge, MT"
@@ -30,11 +25,6 @@ testimonial_item :
   - thumb : "images/testimonial/user-thumb-seven.jpg"
     name  : "Greg Strader"
     company_position: "Portage, MI"
-    quote : >
-
-  - thumb : "images/testimonial/user-thumb-eight.jpg"
-    name  : "Heather Newman"
-    company_position: "Battle Creek, MI"
     quote : >
 
   - thumb : "images/testimonial/user-thumb-nine.jpg"
@@ -60,4 +50,9 @@ testimonial_item :
   - thumb : "images/testimonial/user-thumb-thirteen.jpg"
     name : "Tim Buning"
     company_position: "Grand Haven, MI"
+    quote : >
+
+  - thumb : "images/testimonial/user-thumb-fourteen.jpg"
+    name  : "Carter Cole"
+    company_position: "Kalamazoo, MI"
     quote : >

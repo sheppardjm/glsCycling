@@ -1,14 +1,14 @@
 enable : true
 heading : "OVER 15 YEARS OF PERFORMING AT THE TOP OF THE FIELD IN THE GREAT LAKES REGION"
 counter_item: 
-  - title: "2019 top ten finishes"
-    number: "25"
+  - title: "2021 top ten finishes"
+    number: "32"
 
-  - title: "2019 podiums"
-    number: "15"
+  - title: "2021 podiums"
+    number: "19"
 
-  - title: "2019 events completed"
-    number: "36"
+  - title: "2021 unique events completed"
+    number: "26"
 
   - title: "States raced in"
-    number: "8"
+    number: "4"

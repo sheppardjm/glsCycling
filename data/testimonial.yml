@@ -1,5 +1,5 @@
 enable  : true
-title   : "2021 GLS CYCLING RACING TEAM"
+title   : "2022 GLS CYCLING RACING TEAM"
 subtitle: "A premier grassroots mountain bike team"
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
@@ -55,4 +55,19 @@ testimonial_item :
   - thumb : "images/testimonial/user-thumb-fourteen.jpg"
     name  : "Carter Cole"
     company_position: "Kalamazoo, MI"
+    quote : >
+
+  - thumb : "images/testimonial/user-thumb-fifteen.jpg"
+    name  : "Ron Martin"
+    company_position: "Kalamazoo, MI"
+    quote : >
+
+  - thumb : "images/testimonial/user-thumb-sixteen.jpg"
+    name  : "Cory Hagerman"
+    company_position: "Grand Rapids, MI"
+    quote : >
+
+  - thumb : "images/testimonial/user-thumb-seventeen.jpg"
+    name  : "Meg Hagerman"
+    company_position: "Grand Rapids, MI"
     quote : >

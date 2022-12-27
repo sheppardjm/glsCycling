@@ -17,11 +17,6 @@ testimonial_item :
     company_position: "Waterford, MI"
     quote : > 
 
-  - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Ed Serrat"
-    company_position: "Red Lodge, MT"
-    quote : > 
-
   - thumb : "images/testimonial/user-thumb-seven.jpg"
     name  : "Greg Strader"
     company_position: "Portage, MI"
@@ -70,4 +65,14 @@ testimonial_item :
   - thumb : "images/testimonial/user-thumb-seventeen.jpg"
     name  : "Meg Hagerman"
     company_position: "Grand Rapids, MI"
+    quote : >
+
+  - thumb : "images/testimonial/user-thumb-eighteen.png"
+    name  : "Andy Cleary"
+    company_position: "Grand Rapids, MI"
+    quote : >
+
+  - thumb : "images/testimonial/user-thumb-nineteen.jpg"
+    name  : "Nick Mumma"
+    company_position: "Kalamazoo, MI"
     quote : >

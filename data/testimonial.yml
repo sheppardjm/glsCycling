@@ -76,3 +76,13 @@ testimonial_item :
     name  : "Nick Mumma"
     company_position: "Kalamazoo, MI"
     quote : >
+
+  - thumb : "images/testimonial/user-thumb-twenty.png"
+    name  : "Michael Brus"
+    company_position: "Kalamazoo, MI"
+    quote : >
+
+  - thumb : "images/testimonial/user-thumb-twenty-one.png"
+    name  : "Keith Boneburg"
+    company_position: "Kalamazoo, MI"
+    quote : >

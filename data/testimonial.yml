@@ -1,88 +1,93 @@
-enable  : true
-title   : "2022 GLS CYCLING RACING TEAM"
+enable: true
+title: "2022 GLS CYCLING RACING TEAM"
 subtitle: "A premier grassroots mountain bike team"
-testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Bob Stoner"
+testimonial_item:
+  - thumb: "images/testimonial/user-thumb-one.jpg"
+    name: "Bob Stoner"
     company_position: "Allegan, MI"
-    quote : > 
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Brett Dodds"
+  - thumb: "images/testimonial/user-thumb-two.jpg"
+    name: "Brett Dodds"
     company_position: "Portage, MI"
-    quote : > 
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Bernie Wendel"
+  - thumb: "images/testimonial/user-thumb-three.jpg"
+    name: "Bernie Wendel"
     company_position: "Waterford, MI"
-    quote : > 
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-seven.jpg"
-    name  : "Greg Strader"
+  - thumb: "images/testimonial/user-thumb-seven.jpg"
+    name: "Greg Strader"
     company_position: "Portage, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-nine.jpg"
-    name  : "Jamison Sheppard"
+  - thumb: "images/testimonial/user-thumb-nine.jpg"
+    name: "Jamison Sheppard"
     company_position: "Marquette, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-ten.jpg"
-    name  : "Jeff Vander Mass"
+  - thumb: "images/testimonial/user-thumb-ten.jpg"
+    name: "Jeff Vander Mass"
     company_position: "Grand Rapids, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-eleven.jpg"
-    name  : "Tom Landry"
+  - thumb: "images/testimonial/user-thumb-eleven.jpg"
+    name: "Tom Landry"
     company_position: "Grand Rapids, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-twelve.jpg"
-    name : "Aaron Barto"
+  - thumb: "images/testimonial/user-thumb-twelve.jpg"
+    name: "Aaron Barto"
     company_position: "Grand Rapids, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-thirteen.jpg"
-    name : "Tim Buning"
+  - thumb: "images/testimonial/user-thumb-thirteen.jpg"
+    name: "Tim Buning"
     company_position: "Grand Haven, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-fourteen.jpg"
-    name  : "Carter Cole"
+  - thumb: "images/testimonial/user-thumb-fourteen.jpg"
+    name: "Carter Cole"
     company_position: "Kalamazoo, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-fifteen.jpg"
-    name  : "Ron Martin"
+  - thumb: "images/testimonial/user-thumb-fifteen.jpg"
+    name: "Ron Martin"
     company_position: "Kalamazoo, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-sixteen.jpg"
-    name  : "Cory Hagerman"
+  - thumb: "images/testimonial/user-thumb-sixteen.jpg"
+    name: "Cory Hagerman"
     company_position: "Grand Rapids, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-seventeen.jpg"
-    name  : "Meg Hagerman"
+  - thumb: "images/testimonial/user-thumb-seventeen.jpg"
+    name: "Meg Hagerman"
     company_position: "Grand Rapids, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-eighteen.png"
-    name  : "Andy Cleary"
+  - thumb: "images/testimonial/user-thumb-eighteen.png"
+    name: "Andy Cleary"
     company_position: "Grand Rapids, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-nineteen.jpg"
-    name  : "Nick Mumma"
+  - thumb: "images/testimonial/user-thumb-nineteen.jpg"
+    name: "Nick Mumma"
     company_position: "Kalamazoo, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-twenty.png"
-    name  : "Michael Brus"
+  - thumb: "images/testimonial/user-thumb-twenty.png"
+    name: "Michael Brus"
     company_position: "Kalamazoo, MI"
-    quote : >
+    quote: >
 
-  - thumb : "images/testimonial/user-thumb-twenty-one.png"
-    name  : "Keith Boneburg"
+  - thumb: "images/testimonial/user-thumb-twenty-one.png"
+    name: "Keith Boneburg"
     company_position: "Kalamazoo, MI"
-    quote : >
+    quote: >
+
+  - thumb: "images/testimonial/user-thumb-twentytwo.jpg"
+    name: "David Trudgeon"
+    company_position: "Grand Rapids, MI"
+    quote: >

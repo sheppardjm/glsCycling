@@ -7,4 +7,4 @@ category: ["RESULTS"]
 project_images:
 ---
 
-{{< gdocs src="https://docs.google.com/spreadsheets/d/1h_JML7ooikfbxe7o7VdZNciMaiBRpfgTJMaONTyiDxw/edit?usp=sharing" >}}
+{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSp9eKUWdKeS9IuGKWvhC4A-BeC7lcWxMiqioBOpK6G5837k5tqukFLycSGPVSgi42LSjJZAApA2xk8/pubhtml?widget=true&amp;headers=false" >}}

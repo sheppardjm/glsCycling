@@ -69,13 +69,7 @@ summarylength = 25
     secondary_button_url = "portfolio"
 
   [params.footer]
-    # Footer Contact Info
-    [params.footer.contactInfo]
-      title   = "Contact Info"
-      address = "6800 Cannonsburg Rd"
-      phone   = "555-555-5555"
-      email   = "glscyclingteam@gmail.com"
-      # Footer Sitemap
+    # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]

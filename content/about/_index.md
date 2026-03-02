@@ -8,12 +8,11 @@ expertise_sectors:
   [
     "Trailhead Bike Shop",
     "Ludington Bay Brewing",
+    "Tailwind Nutrition",
     "Wolf Tooth Components",
-    "Clif Bar",
     "Highland Training",
     "Bison Coolers",
     "Ron's Beans",
-    "Tailwind Nutrition",
     "VeloPro",
     "Harvey's",
   ]
